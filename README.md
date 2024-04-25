@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/ylano-dev" target="_blank"><img loading="lazy"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
                                                                           
 ## Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="80" width="80" /> &ensp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="80" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="80" width="80" /> &ensp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="80" width="80"/><i class="devicon-azuresqldatabase-plain colored"></i>
           
           
 
