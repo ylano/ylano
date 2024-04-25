@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-
+## Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="80" width="80" />
           
 
